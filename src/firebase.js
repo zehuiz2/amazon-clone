@@ -5,7 +5,7 @@ import "firebase/compat/firestore"
 
 const firebaseConfig = {
 
-    apiKey: "AIzaSyCOMxeaEshAXQ-iAgEACNmIVTYQb7souok",
+    apiKey: "...",
   
     authDomain: "clone-c443b.firebaseapp.com",
   
